@@ -1,0 +1,25 @@
+﻿  PROJECT25L-3040.cpp
+  bilal.cpp
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(535,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(609,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(609,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(616,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(616,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(762,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(762,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,51): warning C4244:         with
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,51): warning C4244:         [
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,51): warning C4244:             T=float
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,51): warning C4244:         ]
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,41): warning C4244:         with
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,41): warning C4244:         [
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,41): warning C4244:             T=float
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(769,41): warning C4244:         ]
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(770,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(770,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(783,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\merge\Documents\Project 1\SFML_TEST\bilal.cpp(794,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SFML_TEST.vcxproj -> C:\Users\merge\Documents\Project 1\SFML_TEST\x64\Debug\SFML_TEST.exe
